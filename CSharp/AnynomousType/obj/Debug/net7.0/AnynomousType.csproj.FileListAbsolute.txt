@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\CSharp\AnynomousType\bin\Debug\net7.0\AnynomousType.exe
+C:\Users\admin\source\repos\CSharp\AnynomousType\bin\Debug\net7.0\AnynomousType.deps.json
+C:\Users\admin\source\repos\CSharp\AnynomousType\bin\Debug\net7.0\AnynomousType.runtimeconfig.json
+C:\Users\admin\source\repos\CSharp\AnynomousType\bin\Debug\net7.0\AnynomousType.dll
+C:\Users\admin\source\repos\CSharp\AnynomousType\bin\Debug\net7.0\AnynomousType.pdb
+C:\Users\admin\source\repos\CSharp\AnynomousType\obj\Debug\net7.0\AnynomousType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\CSharp\AnynomousType\obj\Debug\net7.0\AnynomousType.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\CSharp\AnynomousType\obj\Debug\net7.0\AnynomousType.AssemblyInfo.cs
+C:\Users\admin\source\repos\CSharp\AnynomousType\obj\Debug\net7.0\AnynomousType.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CSharp\AnynomousType\obj\Debug\net7.0\AnynomousType.dll
+C:\Users\admin\source\repos\CSharp\AnynomousType\obj\Debug\net7.0\refint\AnynomousType.dll
+C:\Users\admin\source\repos\CSharp\AnynomousType\obj\Debug\net7.0\AnynomousType.pdb
+C:\Users\admin\source\repos\CSharp\AnynomousType\obj\Debug\net7.0\AnynomousType.genruntimeconfig.cache
+C:\Users\admin\source\repos\CSharp\AnynomousType\obj\Debug\net7.0\ref\AnynomousType.dll

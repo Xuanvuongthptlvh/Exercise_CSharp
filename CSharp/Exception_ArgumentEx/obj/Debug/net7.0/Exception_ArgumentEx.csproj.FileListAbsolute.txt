@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\CSharp\Exception_ArgumentEx\bin\Debug\net7.0\Exception_ArgumentEx.exe
+C:\Users\admin\source\repos\CSharp\Exception_ArgumentEx\bin\Debug\net7.0\Exception_ArgumentEx.deps.json
+C:\Users\admin\source\repos\CSharp\Exception_ArgumentEx\bin\Debug\net7.0\Exception_ArgumentEx.runtimeconfig.json
+C:\Users\admin\source\repos\CSharp\Exception_ArgumentEx\bin\Debug\net7.0\Exception_ArgumentEx.dll
+C:\Users\admin\source\repos\CSharp\Exception_ArgumentEx\bin\Debug\net7.0\Exception_ArgumentEx.pdb
+C:\Users\admin\source\repos\CSharp\Exception_ArgumentEx\obj\Debug\net7.0\Exception_ArgumentEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\CSharp\Exception_ArgumentEx\obj\Debug\net7.0\Exception_ArgumentEx.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\CSharp\Exception_ArgumentEx\obj\Debug\net7.0\Exception_ArgumentEx.AssemblyInfo.cs
+C:\Users\admin\source\repos\CSharp\Exception_ArgumentEx\obj\Debug\net7.0\Exception_ArgumentEx.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CSharp\Exception_ArgumentEx\obj\Debug\net7.0\Exception_ArgumentEx.dll
+C:\Users\admin\source\repos\CSharp\Exception_ArgumentEx\obj\Debug\net7.0\refint\Exception_ArgumentEx.dll
+C:\Users\admin\source\repos\CSharp\Exception_ArgumentEx\obj\Debug\net7.0\Exception_ArgumentEx.pdb
+C:\Users\admin\source\repos\CSharp\Exception_ArgumentEx\obj\Debug\net7.0\Exception_ArgumentEx.genruntimeconfig.cache
+C:\Users\admin\source\repos\CSharp\Exception_ArgumentEx\obj\Debug\net7.0\ref\Exception_ArgumentEx.dll

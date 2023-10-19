@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\CSharp\NullableType\bin\Debug\net7.0\NullableType.exe
+C:\Users\admin\source\repos\CSharp\NullableType\bin\Debug\net7.0\NullableType.deps.json
+C:\Users\admin\source\repos\CSharp\NullableType\bin\Debug\net7.0\NullableType.runtimeconfig.json
+C:\Users\admin\source\repos\CSharp\NullableType\bin\Debug\net7.0\NullableType.dll
+C:\Users\admin\source\repos\CSharp\NullableType\bin\Debug\net7.0\NullableType.pdb
+C:\Users\admin\source\repos\CSharp\NullableType\obj\Debug\net7.0\NullableType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\CSharp\NullableType\obj\Debug\net7.0\NullableType.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\CSharp\NullableType\obj\Debug\net7.0\NullableType.AssemblyInfo.cs
+C:\Users\admin\source\repos\CSharp\NullableType\obj\Debug\net7.0\NullableType.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CSharp\NullableType\obj\Debug\net7.0\NullableType.dll
+C:\Users\admin\source\repos\CSharp\NullableType\obj\Debug\net7.0\refint\NullableType.dll
+C:\Users\admin\source\repos\CSharp\NullableType\obj\Debug\net7.0\NullableType.pdb
+C:\Users\admin\source\repos\CSharp\NullableType\obj\Debug\net7.0\NullableType.genruntimeconfig.cache
+C:\Users\admin\source\repos\CSharp\NullableType\obj\Debug\net7.0\ref\NullableType.dll

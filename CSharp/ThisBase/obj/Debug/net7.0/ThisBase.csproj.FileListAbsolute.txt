@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\CSharp\ThisBase\bin\Debug\net7.0\ThisBase.exe
+C:\Users\admin\source\repos\CSharp\ThisBase\bin\Debug\net7.0\ThisBase.deps.json
+C:\Users\admin\source\repos\CSharp\ThisBase\bin\Debug\net7.0\ThisBase.runtimeconfig.json
+C:\Users\admin\source\repos\CSharp\ThisBase\bin\Debug\net7.0\ThisBase.dll
+C:\Users\admin\source\repos\CSharp\ThisBase\bin\Debug\net7.0\ThisBase.pdb
+C:\Users\admin\source\repos\CSharp\ThisBase\obj\Debug\net7.0\ThisBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\CSharp\ThisBase\obj\Debug\net7.0\ThisBase.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\CSharp\ThisBase\obj\Debug\net7.0\ThisBase.AssemblyInfo.cs
+C:\Users\admin\source\repos\CSharp\ThisBase\obj\Debug\net7.0\ThisBase.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CSharp\ThisBase\obj\Debug\net7.0\ThisBase.dll
+C:\Users\admin\source\repos\CSharp\ThisBase\obj\Debug\net7.0\refint\ThisBase.dll
+C:\Users\admin\source\repos\CSharp\ThisBase\obj\Debug\net7.0\ThisBase.pdb
+C:\Users\admin\source\repos\CSharp\ThisBase\obj\Debug\net7.0\ThisBase.genruntimeconfig.cache
+C:\Users\admin\source\repos\CSharp\ThisBase\obj\Debug\net7.0\ref\ThisBase.dll

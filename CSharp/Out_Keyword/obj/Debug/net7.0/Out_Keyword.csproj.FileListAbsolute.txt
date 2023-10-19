@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\CSharp\Out_Keyword\bin\Debug\net7.0\Out_Keyword.exe
+C:\Users\admin\source\repos\CSharp\Out_Keyword\bin\Debug\net7.0\Out_Keyword.deps.json
+C:\Users\admin\source\repos\CSharp\Out_Keyword\bin\Debug\net7.0\Out_Keyword.runtimeconfig.json
+C:\Users\admin\source\repos\CSharp\Out_Keyword\bin\Debug\net7.0\Out_Keyword.dll
+C:\Users\admin\source\repos\CSharp\Out_Keyword\bin\Debug\net7.0\Out_Keyword.pdb
+C:\Users\admin\source\repos\CSharp\Out_Keyword\obj\Debug\net7.0\Out_Keyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\CSharp\Out_Keyword\obj\Debug\net7.0\Out_Keyword.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\CSharp\Out_Keyword\obj\Debug\net7.0\Out_Keyword.AssemblyInfo.cs
+C:\Users\admin\source\repos\CSharp\Out_Keyword\obj\Debug\net7.0\Out_Keyword.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CSharp\Out_Keyword\obj\Debug\net7.0\Out_Keyword.dll
+C:\Users\admin\source\repos\CSharp\Out_Keyword\obj\Debug\net7.0\refint\Out_Keyword.dll
+C:\Users\admin\source\repos\CSharp\Out_Keyword\obj\Debug\net7.0\Out_Keyword.pdb
+C:\Users\admin\source\repos\CSharp\Out_Keyword\obj\Debug\net7.0\Out_Keyword.genruntimeconfig.cache
+C:\Users\admin\source\repos\CSharp\Out_Keyword\obj\Debug\net7.0\ref\Out_Keyword.dll

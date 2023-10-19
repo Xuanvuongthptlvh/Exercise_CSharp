@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\CSharp\Relations\bin\Debug\net7.0\Relations.exe
+C:\Users\admin\source\repos\CSharp\Relations\bin\Debug\net7.0\Relations.deps.json
+C:\Users\admin\source\repos\CSharp\Relations\bin\Debug\net7.0\Relations.runtimeconfig.json
+C:\Users\admin\source\repos\CSharp\Relations\bin\Debug\net7.0\Relations.dll
+C:\Users\admin\source\repos\CSharp\Relations\bin\Debug\net7.0\Relations.pdb
+C:\Users\admin\source\repos\CSharp\Relations\obj\Debug\net7.0\Relations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\CSharp\Relations\obj\Debug\net7.0\Relations.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\CSharp\Relations\obj\Debug\net7.0\Relations.AssemblyInfo.cs
+C:\Users\admin\source\repos\CSharp\Relations\obj\Debug\net7.0\Relations.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CSharp\Relations\obj\Debug\net7.0\Relations.dll
+C:\Users\admin\source\repos\CSharp\Relations\obj\Debug\net7.0\refint\Relations.dll
+C:\Users\admin\source\repos\CSharp\Relations\obj\Debug\net7.0\Relations.pdb
+C:\Users\admin\source\repos\CSharp\Relations\obj\Debug\net7.0\Relations.genruntimeconfig.cache
+C:\Users\admin\source\repos\CSharp\Relations\obj\Debug\net7.0\ref\Relations.dll

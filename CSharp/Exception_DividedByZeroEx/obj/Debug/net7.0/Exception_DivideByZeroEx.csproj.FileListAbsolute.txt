@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\CSharp\Exception_DividedByZeroEx\bin\Debug\net7.0\Exception_DivideByZeroEx.exe
+C:\Users\admin\source\repos\CSharp\Exception_DividedByZeroEx\bin\Debug\net7.0\Exception_DivideByZeroEx.deps.json
+C:\Users\admin\source\repos\CSharp\Exception_DividedByZeroEx\bin\Debug\net7.0\Exception_DivideByZeroEx.runtimeconfig.json
+C:\Users\admin\source\repos\CSharp\Exception_DividedByZeroEx\bin\Debug\net7.0\Exception_DivideByZeroEx.dll
+C:\Users\admin\source\repos\CSharp\Exception_DividedByZeroEx\bin\Debug\net7.0\Exception_DivideByZeroEx.pdb
+C:\Users\admin\source\repos\CSharp\Exception_DividedByZeroEx\obj\Debug\net7.0\Exception_DivideByZeroEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\CSharp\Exception_DividedByZeroEx\obj\Debug\net7.0\Exception_DivideByZeroEx.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\CSharp\Exception_DividedByZeroEx\obj\Debug\net7.0\Exception_DivideByZeroEx.AssemblyInfo.cs
+C:\Users\admin\source\repos\CSharp\Exception_DividedByZeroEx\obj\Debug\net7.0\Exception_DivideByZeroEx.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CSharp\Exception_DividedByZeroEx\obj\Debug\net7.0\Exception_DivideByZeroEx.dll
+C:\Users\admin\source\repos\CSharp\Exception_DividedByZeroEx\obj\Debug\net7.0\refint\Exception_DivideByZeroEx.dll
+C:\Users\admin\source\repos\CSharp\Exception_DividedByZeroEx\obj\Debug\net7.0\Exception_DivideByZeroEx.pdb
+C:\Users\admin\source\repos\CSharp\Exception_DividedByZeroEx\obj\Debug\net7.0\Exception_DivideByZeroEx.genruntimeconfig.cache
+C:\Users\admin\source\repos\CSharp\Exception_DividedByZeroEx\obj\Debug\net7.0\ref\Exception_DivideByZeroEx.dll

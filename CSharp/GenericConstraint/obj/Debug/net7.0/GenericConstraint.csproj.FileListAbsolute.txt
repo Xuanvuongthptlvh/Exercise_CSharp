@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\CSharp\GenericConstraint\bin\Debug\net7.0\GenericConstraint.exe
+C:\Users\admin\source\repos\CSharp\GenericConstraint\bin\Debug\net7.0\GenericConstraint.deps.json
+C:\Users\admin\source\repos\CSharp\GenericConstraint\bin\Debug\net7.0\GenericConstraint.runtimeconfig.json
+C:\Users\admin\source\repos\CSharp\GenericConstraint\bin\Debug\net7.0\GenericConstraint.dll
+C:\Users\admin\source\repos\CSharp\GenericConstraint\bin\Debug\net7.0\GenericConstraint.pdb
+C:\Users\admin\source\repos\CSharp\GenericConstraint\obj\Debug\net7.0\GenericConstraint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\CSharp\GenericConstraint\obj\Debug\net7.0\GenericConstraint.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\CSharp\GenericConstraint\obj\Debug\net7.0\GenericConstraint.AssemblyInfo.cs
+C:\Users\admin\source\repos\CSharp\GenericConstraint\obj\Debug\net7.0\GenericConstraint.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CSharp\GenericConstraint\obj\Debug\net7.0\GenericConstraint.dll
+C:\Users\admin\source\repos\CSharp\GenericConstraint\obj\Debug\net7.0\refint\GenericConstraint.dll
+C:\Users\admin\source\repos\CSharp\GenericConstraint\obj\Debug\net7.0\GenericConstraint.pdb
+C:\Users\admin\source\repos\CSharp\GenericConstraint\obj\Debug\net7.0\GenericConstraint.genruntimeconfig.cache
+C:\Users\admin\source\repos\CSharp\GenericConstraint\obj\Debug\net7.0\ref\GenericConstraint.dll

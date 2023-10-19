@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\CSharp\Exception\bin\Debug\net7.0\Exception.exe
+C:\Users\admin\source\repos\CSharp\Exception\bin\Debug\net7.0\Exception.deps.json
+C:\Users\admin\source\repos\CSharp\Exception\bin\Debug\net7.0\Exception.runtimeconfig.json
+C:\Users\admin\source\repos\CSharp\Exception\bin\Debug\net7.0\Exception.dll
+C:\Users\admin\source\repos\CSharp\Exception\bin\Debug\net7.0\Exception.pdb
+C:\Users\admin\source\repos\CSharp\Exception\obj\Debug\net7.0\Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\CSharp\Exception\obj\Debug\net7.0\Exception.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\CSharp\Exception\obj\Debug\net7.0\Exception.AssemblyInfo.cs
+C:\Users\admin\source\repos\CSharp\Exception\obj\Debug\net7.0\Exception.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CSharp\Exception\obj\Debug\net7.0\Exception.dll
+C:\Users\admin\source\repos\CSharp\Exception\obj\Debug\net7.0\refint\Exception.dll
+C:\Users\admin\source\repos\CSharp\Exception\obj\Debug\net7.0\Exception.pdb
+C:\Users\admin\source\repos\CSharp\Exception\obj\Debug\net7.0\Exception.genruntimeconfig.cache
+C:\Users\admin\source\repos\CSharp\Exception\obj\Debug\net7.0\ref\Exception.dll

@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\CSharp\DynamicType\bin\Debug\net7.0\DynamicType.exe
+C:\Users\admin\source\repos\CSharp\DynamicType\bin\Debug\net7.0\DynamicType.deps.json
+C:\Users\admin\source\repos\CSharp\DynamicType\bin\Debug\net7.0\DynamicType.runtimeconfig.json
+C:\Users\admin\source\repos\CSharp\DynamicType\bin\Debug\net7.0\DynamicType.dll
+C:\Users\admin\source\repos\CSharp\DynamicType\bin\Debug\net7.0\DynamicType.pdb
+C:\Users\admin\source\repos\CSharp\DynamicType\obj\Debug\net7.0\DynamicType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\CSharp\DynamicType\obj\Debug\net7.0\DynamicType.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\CSharp\DynamicType\obj\Debug\net7.0\DynamicType.AssemblyInfo.cs
+C:\Users\admin\source\repos\CSharp\DynamicType\obj\Debug\net7.0\DynamicType.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CSharp\DynamicType\obj\Debug\net7.0\DynamicType.dll
+C:\Users\admin\source\repos\CSharp\DynamicType\obj\Debug\net7.0\refint\DynamicType.dll
+C:\Users\admin\source\repos\CSharp\DynamicType\obj\Debug\net7.0\DynamicType.pdb
+C:\Users\admin\source\repos\CSharp\DynamicType\obj\Debug\net7.0\DynamicType.genruntimeconfig.cache
+C:\Users\admin\source\repos\CSharp\DynamicType\obj\Debug\net7.0\ref\DynamicType.dll

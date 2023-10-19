@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\CSharp\Constructors\bin\Debug\net7.0\StaticConstructor.exe
+C:\Users\admin\source\repos\CSharp\Constructors\bin\Debug\net7.0\StaticConstructor.deps.json
+C:\Users\admin\source\repos\CSharp\Constructors\bin\Debug\net7.0\StaticConstructor.runtimeconfig.json
+C:\Users\admin\source\repos\CSharp\Constructors\bin\Debug\net7.0\StaticConstructor.dll
+C:\Users\admin\source\repos\CSharp\Constructors\bin\Debug\net7.0\StaticConstructor.pdb
+C:\Users\admin\source\repos\CSharp\Constructors\obj\Debug\net7.0\StaticConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\CSharp\Constructors\obj\Debug\net7.0\StaticConstructor.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\CSharp\Constructors\obj\Debug\net7.0\StaticConstructor.AssemblyInfo.cs
+C:\Users\admin\source\repos\CSharp\Constructors\obj\Debug\net7.0\StaticConstructor.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CSharp\Constructors\obj\Debug\net7.0\StaticConstructor.dll
+C:\Users\admin\source\repos\CSharp\Constructors\obj\Debug\net7.0\refint\StaticConstructor.dll
+C:\Users\admin\source\repos\CSharp\Constructors\obj\Debug\net7.0\StaticConstructor.pdb
+C:\Users\admin\source\repos\CSharp\Constructors\obj\Debug\net7.0\StaticConstructor.genruntimeconfig.cache
+C:\Users\admin\source\repos\CSharp\Constructors\obj\Debug\net7.0\ref\StaticConstructor.dll

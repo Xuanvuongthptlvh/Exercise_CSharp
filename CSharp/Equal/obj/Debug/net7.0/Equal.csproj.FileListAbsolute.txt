@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\CSharp\Equal\bin\Debug\net7.0\Equal.exe
+C:\Users\admin\source\repos\CSharp\Equal\bin\Debug\net7.0\Equal.deps.json
+C:\Users\admin\source\repos\CSharp\Equal\bin\Debug\net7.0\Equal.runtimeconfig.json
+C:\Users\admin\source\repos\CSharp\Equal\bin\Debug\net7.0\Equal.dll
+C:\Users\admin\source\repos\CSharp\Equal\bin\Debug\net7.0\Equal.pdb
+C:\Users\admin\source\repos\CSharp\Equal\obj\Debug\net7.0\Equal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\CSharp\Equal\obj\Debug\net7.0\Equal.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\CSharp\Equal\obj\Debug\net7.0\Equal.AssemblyInfo.cs
+C:\Users\admin\source\repos\CSharp\Equal\obj\Debug\net7.0\Equal.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CSharp\Equal\obj\Debug\net7.0\Equal.dll
+C:\Users\admin\source\repos\CSharp\Equal\obj\Debug\net7.0\refint\Equal.dll
+C:\Users\admin\source\repos\CSharp\Equal\obj\Debug\net7.0\Equal.pdb
+C:\Users\admin\source\repos\CSharp\Equal\obj\Debug\net7.0\Equal.genruntimeconfig.cache
+C:\Users\admin\source\repos\CSharp\Equal\obj\Debug\net7.0\ref\Equal.dll

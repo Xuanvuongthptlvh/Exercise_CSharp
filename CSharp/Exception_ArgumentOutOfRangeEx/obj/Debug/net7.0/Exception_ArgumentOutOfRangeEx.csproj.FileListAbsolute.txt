@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\CSharp\Exception_ArgumentOutOfRangeEx\obj\Debug\net7.0\Exception_ArgumentOutOfRangeEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\CSharp\Exception_ArgumentOutOfRangeEx\obj\Debug\net7.0\Exception_ArgumentOutOfRangeEx.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\CSharp\Exception_ArgumentOutOfRangeEx\obj\Debug\net7.0\Exception_ArgumentOutOfRangeEx.AssemblyInfo.cs
+C:\Users\admin\source\repos\CSharp\Exception_ArgumentOutOfRangeEx\obj\Debug\net7.0\Exception_ArgumentOutOfRangeEx.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CSharp\Exception_ArgumentOutOfRangeEx\bin\Debug\net7.0\Exception_ArgumentOutOfRangeEx.exe
+C:\Users\admin\source\repos\CSharp\Exception_ArgumentOutOfRangeEx\bin\Debug\net7.0\Exception_ArgumentOutOfRangeEx.deps.json
+C:\Users\admin\source\repos\CSharp\Exception_ArgumentOutOfRangeEx\bin\Debug\net7.0\Exception_ArgumentOutOfRangeEx.runtimeconfig.json
+C:\Users\admin\source\repos\CSharp\Exception_ArgumentOutOfRangeEx\bin\Debug\net7.0\Exception_ArgumentOutOfRangeEx.dll
+C:\Users\admin\source\repos\CSharp\Exception_ArgumentOutOfRangeEx\bin\Debug\net7.0\Exception_ArgumentOutOfRangeEx.pdb
+C:\Users\admin\source\repos\CSharp\Exception_ArgumentOutOfRangeEx\obj\Debug\net7.0\Exception_ArgumentOutOfRangeEx.dll
+C:\Users\admin\source\repos\CSharp\Exception_ArgumentOutOfRangeEx\obj\Debug\net7.0\refint\Exception_ArgumentOutOfRangeEx.dll
+C:\Users\admin\source\repos\CSharp\Exception_ArgumentOutOfRangeEx\obj\Debug\net7.0\Exception_ArgumentOutOfRangeEx.pdb
+C:\Users\admin\source\repos\CSharp\Exception_ArgumentOutOfRangeEx\obj\Debug\net7.0\Exception_ArgumentOutOfRangeEx.genruntimeconfig.cache
+C:\Users\admin\source\repos\CSharp\Exception_ArgumentOutOfRangeEx\obj\Debug\net7.0\ref\Exception_ArgumentOutOfRangeEx.dll

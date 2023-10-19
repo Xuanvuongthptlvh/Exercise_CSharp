@@ -1,0 +1,5 @@
+{
+  "db": {
+    "connection1": "Data Source=DESTOP-VUONG\\MAYAO;Initial Catalog=BikeStores;Integrated Security=True"
+  }
+}

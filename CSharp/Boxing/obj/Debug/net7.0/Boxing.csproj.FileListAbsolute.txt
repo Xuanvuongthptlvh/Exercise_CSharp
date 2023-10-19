@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\CSharp\Boxing\bin\Debug\net7.0\Boxing.exe
+C:\Users\admin\source\repos\CSharp\Boxing\bin\Debug\net7.0\Boxing.deps.json
+C:\Users\admin\source\repos\CSharp\Boxing\bin\Debug\net7.0\Boxing.runtimeconfig.json
+C:\Users\admin\source\repos\CSharp\Boxing\bin\Debug\net7.0\Boxing.dll
+C:\Users\admin\source\repos\CSharp\Boxing\bin\Debug\net7.0\Boxing.pdb
+C:\Users\admin\source\repos\CSharp\Boxing\obj\Debug\net7.0\Boxing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\CSharp\Boxing\obj\Debug\net7.0\Boxing.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\CSharp\Boxing\obj\Debug\net7.0\Boxing.AssemblyInfo.cs
+C:\Users\admin\source\repos\CSharp\Boxing\obj\Debug\net7.0\Boxing.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CSharp\Boxing\obj\Debug\net7.0\Boxing.dll
+C:\Users\admin\source\repos\CSharp\Boxing\obj\Debug\net7.0\refint\Boxing.dll
+C:\Users\admin\source\repos\CSharp\Boxing\obj\Debug\net7.0\Boxing.pdb
+C:\Users\admin\source\repos\CSharp\Boxing\obj\Debug\net7.0\Boxing.genruntimeconfig.cache
+C:\Users\admin\source\repos\CSharp\Boxing\obj\Debug\net7.0\ref\Boxing.dll

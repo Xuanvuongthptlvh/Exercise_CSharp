@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\CSharp\Constructors\bin\Debug\net7.0\Constructors.exe
+C:\Users\admin\source\repos\CSharp\Constructors\bin\Debug\net7.0\Constructors.deps.json
+C:\Users\admin\source\repos\CSharp\Constructors\bin\Debug\net7.0\Constructors.runtimeconfig.json
+C:\Users\admin\source\repos\CSharp\Constructors\bin\Debug\net7.0\Constructors.dll
+C:\Users\admin\source\repos\CSharp\Constructors\bin\Debug\net7.0\Constructors.pdb
+C:\Users\admin\source\repos\CSharp\Constructors\obj\Debug\net7.0\Constructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\CSharp\Constructors\obj\Debug\net7.0\Constructors.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\CSharp\Constructors\obj\Debug\net7.0\Constructors.AssemblyInfo.cs
+C:\Users\admin\source\repos\CSharp\Constructors\obj\Debug\net7.0\Constructors.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CSharp\Constructors\obj\Debug\net7.0\Constructors.dll
+C:\Users\admin\source\repos\CSharp\Constructors\obj\Debug\net7.0\refint\Constructors.dll
+C:\Users\admin\source\repos\CSharp\Constructors\obj\Debug\net7.0\Constructors.pdb
+C:\Users\admin\source\repos\CSharp\Constructors\obj\Debug\net7.0\Constructors.genruntimeconfig.cache
+C:\Users\admin\source\repos\CSharp\Constructors\obj\Debug\net7.0\ref\Constructors.dll

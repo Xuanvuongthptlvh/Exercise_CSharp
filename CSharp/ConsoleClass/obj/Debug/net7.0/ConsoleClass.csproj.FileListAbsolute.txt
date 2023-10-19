@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\CSharp\ConsoleClass\bin\Debug\net7.0\ConsoleClass.exe
+C:\Users\admin\source\repos\CSharp\ConsoleClass\bin\Debug\net7.0\ConsoleClass.deps.json
+C:\Users\admin\source\repos\CSharp\ConsoleClass\bin\Debug\net7.0\ConsoleClass.runtimeconfig.json
+C:\Users\admin\source\repos\CSharp\ConsoleClass\bin\Debug\net7.0\ConsoleClass.dll
+C:\Users\admin\source\repos\CSharp\ConsoleClass\bin\Debug\net7.0\ConsoleClass.pdb
+C:\Users\admin\source\repos\CSharp\ConsoleClass\obj\Debug\net7.0\ConsoleClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\CSharp\ConsoleClass\obj\Debug\net7.0\ConsoleClass.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\CSharp\ConsoleClass\obj\Debug\net7.0\ConsoleClass.AssemblyInfo.cs
+C:\Users\admin\source\repos\CSharp\ConsoleClass\obj\Debug\net7.0\ConsoleClass.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CSharp\ConsoleClass\obj\Debug\net7.0\ConsoleClass.dll
+C:\Users\admin\source\repos\CSharp\ConsoleClass\obj\Debug\net7.0\refint\ConsoleClass.dll
+C:\Users\admin\source\repos\CSharp\ConsoleClass\obj\Debug\net7.0\ConsoleClass.pdb
+C:\Users\admin\source\repos\CSharp\ConsoleClass\obj\Debug\net7.0\ConsoleClass.genruntimeconfig.cache
+C:\Users\admin\source\repos\CSharp\ConsoleClass\obj\Debug\net7.0\ref\ConsoleClass.dll

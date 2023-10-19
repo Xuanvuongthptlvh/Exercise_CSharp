@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\CSharp\DataType\obj\Debug\net7.0\DataType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\CSharp\DataType\obj\Debug\net7.0\DataType.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\CSharp\DataType\obj\Debug\net7.0\DataType.AssemblyInfo.cs
+C:\Users\admin\source\repos\CSharp\DataType\obj\Debug\net7.0\DataType.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CSharp\DataType\bin\Debug\net7.0\DataType.exe
+C:\Users\admin\source\repos\CSharp\DataType\bin\Debug\net7.0\DataType.deps.json
+C:\Users\admin\source\repos\CSharp\DataType\bin\Debug\net7.0\DataType.runtimeconfig.json
+C:\Users\admin\source\repos\CSharp\DataType\bin\Debug\net7.0\DataType.dll
+C:\Users\admin\source\repos\CSharp\DataType\bin\Debug\net7.0\DataType.pdb
+C:\Users\admin\source\repos\CSharp\DataType\obj\Debug\net7.0\DataType.dll
+C:\Users\admin\source\repos\CSharp\DataType\obj\Debug\net7.0\refint\DataType.dll
+C:\Users\admin\source\repos\CSharp\DataType\obj\Debug\net7.0\DataType.pdb
+C:\Users\admin\source\repos\CSharp\DataType\obj\Debug\net7.0\DataType.genruntimeconfig.cache
+C:\Users\admin\source\repos\CSharp\DataType\obj\Debug\net7.0\ref\DataType.dll

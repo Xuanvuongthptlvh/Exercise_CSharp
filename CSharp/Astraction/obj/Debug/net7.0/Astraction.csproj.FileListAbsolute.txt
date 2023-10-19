@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\CSharp\Astraction\bin\Debug\net7.0\Astraction.exe
+C:\Users\admin\source\repos\CSharp\Astraction\bin\Debug\net7.0\Astraction.deps.json
+C:\Users\admin\source\repos\CSharp\Astraction\bin\Debug\net7.0\Astraction.runtimeconfig.json
+C:\Users\admin\source\repos\CSharp\Astraction\bin\Debug\net7.0\Astraction.dll
+C:\Users\admin\source\repos\CSharp\Astraction\bin\Debug\net7.0\Astraction.pdb
+C:\Users\admin\source\repos\CSharp\Astraction\obj\Debug\net7.0\Astraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\CSharp\Astraction\obj\Debug\net7.0\Astraction.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\CSharp\Astraction\obj\Debug\net7.0\Astraction.AssemblyInfo.cs
+C:\Users\admin\source\repos\CSharp\Astraction\obj\Debug\net7.0\Astraction.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CSharp\Astraction\obj\Debug\net7.0\Astraction.dll
+C:\Users\admin\source\repos\CSharp\Astraction\obj\Debug\net7.0\refint\Astraction.dll
+C:\Users\admin\source\repos\CSharp\Astraction\obj\Debug\net7.0\Astraction.pdb
+C:\Users\admin\source\repos\CSharp\Astraction\obj\Debug\net7.0\Astraction.genruntimeconfig.cache
+C:\Users\admin\source\repos\CSharp\Astraction\obj\Debug\net7.0\ref\Astraction.dll
